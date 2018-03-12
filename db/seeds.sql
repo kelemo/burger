@@ -1,6 +1,7 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ("Cheese Burger", false);
-INSERT INTO burgers (burger_name, devoured) VALUES ("Hamburger", false);
-INSERT INTO burgers (burger_name, devoured) VALUES ("Chicken Burger", false);
+-- work on the burgers_db
+USE `burgers`;
 
-
-
+-- insert 3 burgers
+INSERT INTO `burgers` (burger_name, devoured ) VALUES ('Mac Burger', false );
+INSERT INTO `burgers` (burger_name, devoured ) VALUES ('King Burger', false );
+INSERT INTO `burgers` (burger_name, devoured ) VALUES ('Taco Burger', false);

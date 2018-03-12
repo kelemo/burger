@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(189, 25, 25);
+	margin-top: 20px;
+	color: rgb(22, 6, 6);
+}
+
+img {
+	width: 200px;
+	height: auto;	
+}
