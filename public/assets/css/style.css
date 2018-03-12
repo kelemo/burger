@@ -8,3 +8,7 @@ img {
 	width: 200px;
 	height: auto;	
 }
+
+#show {
+	visibility: hidden;
+}
